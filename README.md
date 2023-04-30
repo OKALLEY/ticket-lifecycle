@@ -58,4 +58,4 @@ Click "Open a New Ticket" and create a ticket as Ken
 Can you provide info?"
 <li>When finished, at the bottom click "Create Ticket"</li>
 
-<img src="https://imgur.com/Zbpk3mn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ngWxa2C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
