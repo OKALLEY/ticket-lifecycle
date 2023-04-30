@@ -72,3 +72,7 @@ Can you provide info?"
 <img src="https://imgur.com/W1BXeWp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Since Jane is also wearing the Escalation Engineer hat, she assigns it to herself to make sure it gets done right.</li>
 <img src="https://imgur.com/2LTGaTp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<li>Next she addresses the SLA Plan to make it refelect the Emergency by changing it from "Default SLA" to "SEV-A"</li>  
+<img src="https://imgur.com/ntxEbeA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
