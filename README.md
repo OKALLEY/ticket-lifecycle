@@ -34,18 +34,28 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/CZZ6qvX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <h2>Karen (bank manager)</h2>
-<li>Create a Ticket as Karen with a Help Topic: Business Critical Outage</li>
+<li>Create a Ticket as Karen with a Help Topic: "Business Critical Outage"</li>
 <li>For Issue Summary * type: Entire mobile online banking is down.</li>
-<li>In the Details section type: Multiple clients are reporting they are getting a 404 error when attempting to sign into their account.</li>
+<li>In the Details section type: "Multiple clients are reporting they are getting a 404 error when attempting to sign into their account."</li>
 <li>When finished, at the bottom click "Create Ticket"</li>
 <img src="https://imgur.com/WpORftR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 <p>
   <h2>Ken (in accounting)</h2>
 Click "Open a New Ticket" and create a ticket as Ken
 <img src="https://imgur.com/EhDfWIf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<li>Make the Help Topic: Personal Computer Issues</li>
+<li>Make the Help Topic: "Personal Computer Issues"</li>
 <li>For Issue Summary * type: Accounting Dept Adobe Reader Not Working</li>
 <li>In the Details section type: <br>
-Following the upgrade last night, Adobe Reader has been rendered unusable for all members of the accounting team.</li>
+"Following the upgrade last night, Adobe Reader has been unusable for all members of the accounting team."</li>
 <li>When finished, at the bottom click "Create Ticket"</li>
 <img src="https://imgur.com/8Iktzrw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h2>Karen (2nd inquiry)</h2>
+<li>Open a New Ticket as Karen with a Help Topic of "General Inquiry"</li>
+<li>For Issue Summary * type: When are we getting new hardware</li>
+<li>In the Details section type: <br>
+"Most of my department are having issues with their tablets. We need new ones ASAP.
+Can you provide info?"
+<li>When finished, at the bottom click "Create Ticket"</li>
+
+<img src="https://imgur.com/Zbpk3mn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
