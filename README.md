@@ -12,7 +12,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Applied</h2>
 
 - Windows 10</b> (21H2)
 
@@ -27,3 +27,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <li>Help Desk Login Page: http://localhost/osTicket/scp/login.php</li>
 <li>End Users osTicket URL: http://localhost/osTicket/</li>
 </h2>
+
+<h2>Creating a Ticket</h2>
+<li>Within the VM (virtual machine):<br> Open a browser and paste in the Users OsTicket URL: http://localhost/osTicket/</li>
+<li>Click on "Open a New Ticket"</li>
+<img src="https://imgur.com/CZZ6qvX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<li>Create a Ticket as Karen with a Help Topic: Business Critical Outage</li>
+<li>For Issue Summary * type: Entire mobile online banking is down.</li>
+<li>In the Details section type: Multiple clients are reporting they are getting a 404 error when attempting to sign into their account.</li>
+<li>When finished, at the bottom click "Create Ticket"</li>
+<img src="https://imgur.com/WpORftR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+
+
+
