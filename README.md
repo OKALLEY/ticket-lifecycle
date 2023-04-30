@@ -60,12 +60,15 @@ Can you provide info?"
 
 <img src="https://imgur.com/ngWxa2C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2>Responding to Tickets</h2>
+<h2>Responding to Tickets:</h2>
 <li>Log out of osTicket and sign back in as Agent, Jane Doe</li>
 <img src="https://imgur.com/VM0Tpq7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<h2>Que Manager</h2>
+
+<h2>Que Manager/Escalation Engineer</h2>
 <li>Here you will perform a triage of sorts and assess and assign jobs</li>
 <img src="https://imgur.com/UJJCYds.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Let's start with the ticket that reads: "Entire mobile online banking is down."</li>
 <li>After reading the notes it's decided that the Priority should be changed from "Normal" to "Emergency" </li>
 <img src="https://imgur.com/W1BXeWp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Since Jane is also wearing the Escalation Engineer hat, she assigns it to herself to make sure it gets done right.</li>
+<img src="https://imgur.com/2LTGaTp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
