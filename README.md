@@ -59,3 +59,13 @@ Can you provide info?"
 <li>When finished, at the bottom click "Create Ticket"</li>
 
 <img src="https://imgur.com/ngWxa2C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h2>Responding to Tickets</h2>
+<li>Log out of osTicket and sign back in as Agent, Jane Doe</li>
+<img src="https://imgur.com/VM0Tpq7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Que Manager</h2>
+<li>Here you will perform a triage of sorts and assess and assign jobs</li>
+<img src="https://imgur.com/UJJCYds.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Let's start with the ticket that reads: "Entire mobile online banking is down."</li>
+<li>After reading the notes it's decided that the Priority should be changed from "Normal" to "Emergency" </li>
+<img src="https://imgur.com/W1BXeWp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
