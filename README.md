@@ -70,9 +70,10 @@ Can you provide info?"
 <li>Let's start with the ticket that reads: "Entire mobile online banking is down."</li>
 <li>After reading the notes it's decided that the Priority should be changed from "Normal" to "Emergency" </li>
 <img src="https://imgur.com/W1BXeWp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<li>Since Jane is also wearing the Escalation Engineer hat, she assigns it to herself to make sure it gets done right.</li>
+<li>Since Jane is also wearing the Escalation Engineer hat, she assigns it to herself to over see the ticket personally.</li>
 <img src="https://imgur.com/2LTGaTp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <li>Next she addresses the SLA Plan to make it refelect the Emergency by changing it from "Default SLA" to "SEV-A"</li>  
 <img src="https://imgur.com/ntxEbeA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  
+<li>System Administrators are more likey to be responsible this type of event.<br> Change the Department from "Support" to "System Administrators"</li>
+<img src="https://imgur.com/QN3fL3m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
