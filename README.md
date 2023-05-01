@@ -77,3 +77,13 @@ Can you provide info?"
 <img src="https://imgur.com/ntxEbeA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>System Administrators are more likey to be responsible this type of event.<br> Change the Department from "Support" to "System Administrators"</li>
 <img src="https://imgur.com/QN3fL3m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Notice the Ticket Thread/History showing all the updates</li>
+<img src="https://imgur.com/3M0ZOSu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Post a reply: Coordinating with Sys Admin Team to bring mobile banking back online.</li>
+<img src="https://imgur.com/4XKLc10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+
+<li> Post a final response: Jullian from Sys Engineering found and corrected a load balancer.<br>
+Mobile banking should be operational again.</li>
+<li>Mark the Ticket Status "Resolved" and click Post Reply</li>
+<img src="https://imgur.com/oCQNBC6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
