@@ -95,6 +95,8 @@ the entire accounting department's work is impacted so let's set the Priority to
 <Because it's the whole department, update the SLA Plan to "SEV-B">
 <li>Assign this Ticket to John Doe</li>
 <img src="https://imgur.com/W6KIrvq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>We can now add notes such as, "Reassigned to SEV-B. Reached out to John for a warm handoff."</li> 
+<img src="https://imgur.com/YcCD6zB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
             
 <br>
 NOTE: Things like SLA and Priority are determined by the organization which will usually give guidelines to be utilized.
