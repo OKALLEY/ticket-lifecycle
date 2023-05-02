@@ -87,3 +87,15 @@ Can you provide info?"
 Mobile banking should be operational again.</li>
 <li>Mark the Ticket Status "Resolved" and click Post Reply</li>
 <img src="https://imgur.com/oCQNBC6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br>
+<li>The next ticket we'll address is Ken's ticket for the accounting department</li>
+<li>Although this ticket may not be critical or an emergency <br>
+the entire accounting department's work is impacted so let's set the Priority to "High" and click "Update"</li>
+<img src="https://imgur.com/4qzRACv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<Because it's the whole department, update the SLA Plan to "SEV-B">
+<li>Assign this Ticket to John Doe</li>
+<img src="https://imgur.com/W6KIrvq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+            
+<br>
+NOTE: Things like SLA and Priority are determined by the organization which will usually give guidelines to be utilized.
+  
