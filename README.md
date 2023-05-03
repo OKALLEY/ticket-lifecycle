@@ -118,4 +118,6 @@ NOTE: Things like SLA and Priority are determined by the organization which will
 <br>
                                                 
 <li>The only remaining ticket is assigned to John Doe. Sign out and sign back in as John.</li>
-                                                
+<li>John post an internal note that he has rolled back the version of Adobe so they can resume work <br> 
+    until he can research why the new version is not working on accounting department hardware.</li>
+<li>If you have any trouble posting as John be sure to check the permissions assigned to him.</li>                                                
