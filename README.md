@@ -98,10 +98,13 @@ the entire accounting department's work is impacted so let's set the Priority to
 <li>We can now add notes such as, "Reassigned to SEV-B. Reached out to John for a warm handoff." (Post Reply)<br>
 In this case a warm handoff is calling and getting an acknowledgment rather than just assigning it (cold handoff).</li> 
 <img src="https://imgur.com/YcCD6zB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+           
+<br>
+            
+NOTE: Things like SLA and Priority are determined by the organization which will usually give guidelines to be utilized.
             
 <br>
-NOTE: Things like SLA and Priority are determined by the organization which will usually give guidelines to be utilized.
-  
+            
 <li>Going back to "Tickets" Let's look at Karen's second Ticket "When are we getting new hardware"</li>
 <li>Set Priority to "Low"</li>
 <li>Assign to yourself (as Jane Doe)</li>
@@ -109,5 +112,10 @@ NOTE: Things like SLA and Priority are determined by the organization which will
 <img src="https://imgur.com/NoqchAe.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <li>In the Response section type something like this: <br>
 "Just to update you, we have planned a hardware refresh in Q1 and would like to extend an invitation to you and your department to start testing the new units today, if you are interested. If you wish to proceed, kindly send me an email and let me know."</li>   
-<li>Click "Post Reply" to close this ticket, removing it from the que.</li>
+<li>Change "Ticket Status" to "Resolved" and click "Post Reply" to close this ticket, removing it from the que.</li>
 <img src="https://imgur.com/dl6Jnlz.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<br>
+                                                
+<li>The only remaining ticket is assigned to John Doe. Sign out and sign back in as John.</li>
+                                                
